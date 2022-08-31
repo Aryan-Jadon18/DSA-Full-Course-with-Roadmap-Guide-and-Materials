@@ -1,0 +1,2 @@
+# DSA-Full-Course-with-Roadmap-Guide-and-Materials
+This is one single resource you need to follow to master DSA. Initially the codes are in C++ but sooner we are coming with Java, Python, JavaScript and other languages too. I took materials and formats of one of the best DSA courses present on the internet/web/youtube . This being beginner friendly goes to advanced explanations explained easily. If your aren't a reader, we are also preparing some audio/video resources. And it's all free. Thank you.
